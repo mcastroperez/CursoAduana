@@ -40,5 +40,9 @@ public class Cliente {
 		return "Cliente [nombre=" + nombre + ", apellido=" + apellido + ", rut=" + rut + "]";
 	}
 	
+	public void mensaje(){
+		System.out.println("Hola Mundo");
+	}
 	
+
 }
